@@ -104,7 +104,7 @@
 
             <!--Product Categories-->
             <div class="wrap-show-advance-info-box style-1">
-                <h3 class="title-box">ÜCRETSİZ KARGO</h3>
+                <h3 class="title-box">ÜCRETSİZ KARGO </h3>
                 <div class="wrap-top-banner">
                     <a href="/shop" class="link-banner banner-effect-2">
                         <figure><img src="{{ asset('assets/images/anasayfa-banner-4.jpg') }}" width="1170" height="240" alt=""></figure>
